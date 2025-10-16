@@ -47,11 +47,11 @@ Git • GitHub • TFS • Azure DevOps • CI/CD Pipelines • Bash • Linux �
 ---
 
 ##  Sample Projects  
-### •🚗 [**Car Rental Management System (.NET 8 + React + SQL)**](https://github.com/LevMiriam/FinalProject)
+### •🚗 [**Car Rental Management System -.NET 8 + React + SQL**](https://github.com/LevMiriam/FinalProject)
 A full-stack car rental system designed with a clean three-layer architecture (DAL–BL–Server).  
 Includes vehicle inventory, booking calendar with Hebrew date validation, user authentication, and payment + invoice generation via email.  
 
-### •🛍️ [**React Store App (React + HTML + CSS)**](https://github.com/LevMiriam/ReactOnlineStore)
+### •🛍️ [**Online Store Web App -React + HTML + CSS**](https://github.com/LevMiriam/ReactOnlineStore)
 A responsive, modern online shop built with **React**.  
 Includes product catalog, dynamic cart management with localStorage, and admin product editing UI.  
 
