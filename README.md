@@ -5,7 +5,7 @@ I create scalable, maintainable, and secure solutions with attention to detail a
 
 ---
 
-## 🧩 About Me  
+##  About Me  
 I’m passionate about developing solutions that are not just functional — but reliable, clear, and built for growth.  
 I approach every project as a system: from the UI to the backend to the database.  
 
@@ -15,7 +15,7 @@ I approach every project as a system: from the UI to the backend to the database
 
 ---
 
-## 🛠️ Technologies & Tools  
+##  Technologies & Tools  
 
 ###  Frontend  
 Angular 18 • TypeScript • React • HTML5 • CSS3 • Material UI • Responsive Design  
@@ -31,7 +31,7 @@ Git • GitHub • Bash • Linux • PowerShell • Postman • Visual Studio �
 
 ---
 
-## 💬 Soft Skills & Work Qualities  
+##  Soft Skills & Work Qualities  
 • Strong interpersonal communication — team-oriented and stakeholder-friendly  
 • Organized task management — focused, reliable, and deadline-driven  
 • Self-learning & problem-solving — fast learner, adaptable to new tech  
@@ -40,7 +40,7 @@ Git • GitHub • Bash • Linux • PowerShell • Postman • Visual Studio �
 
 ---
 
-## 🛡 Values I Bring  
+##  Values I Bring  
 • Clean, readable code – easy for teams to maintain  
 • Modular structure – scalable and testable components  
 • Security-aware – validation, permissions & safe data flow  
@@ -49,7 +49,7 @@ Git • GitHub • Bash • Linux • PowerShell • Postman • Visual Studio �
 
 ---
 
-## 🚀 Sample Projects  
+##  Sample Projects  
 
 ### 🎓 CourseHub – React + MUI Course Store  
 A modern course marketplace built with React, Redux, and MUI.  
@@ -82,7 +82,7 @@ Built with React frontend, .NET Core backend, and SQL Server — following **Cle
 
 ---
 
-## 📫 Contact  
+##  Contact  
 
 • **Israel**  
 • [‫0666miri@gmail.com‬](mailto:‫0666miri@gmail.com‬)  
