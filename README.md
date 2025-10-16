@@ -24,7 +24,7 @@ C# (.NET Core) • Python • Java • C++ • Node.js • REST APIs • JSON Se
 ###  Databases  
 SQL Server • MySQL • Entity Framework • ADO.NET  
 ###  DevOps / Tools  
-Git • GitHub • Bash • Linux • PowerShell • Postman • Visual Studio • VS Code • IntelliJ IDEA  
+Git • GitHub • TFS • Azure DevOps • CI/CD Pipelines • Bash • Linux • PowerShell • Postman • Visual Studio • VS Code • IntelliJ IDEA
 
 ---
 
