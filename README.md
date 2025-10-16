@@ -47,13 +47,13 @@ Git • GitHub • TFS • Azure DevOps • CI/CD Pipelines • Bash • Linux �
 ---
 
 ##  Sample Projects  
-### •🚗 [**Way2Go – Car Rental Management System (.NET 8 + React + SQL)**](https://github.com/LevMiriam/FinalProject)
+### •🚗 [**Car Rental Management System (.NET 8 + React + SQL)**](https://github.com/LevMiriam/FinalProject)
 A full-stack car rental system designed with a clean three-layer architecture (DAL–BL–Server).  
 Includes vehicle inventory, booking calendar with Hebrew date validation, user authentication, and payment + invoice generation via email.  
 
-### •🗂️ Task Management System – Node.js + MySQL  
-A clean and scalable task management app with CRUD operations and status filtering.  
-Built using Node.js, Express, and MySQL with a strong emphasis on modularity and maintainability.
+### •🛍️ [**React Store App (React + HTML + CSS)**](https://github.com/LevMiriam/ReactOnlineStore)
+A responsive, modern online shop built with **React**.  
+Includes product catalog, dynamic cart management with localStorage, and admin product editing UI.  
 
 ### •📡 Weather Station Service – C# Multi-Layered Architecture  
 A backend service managing weather stations and measurements.  
