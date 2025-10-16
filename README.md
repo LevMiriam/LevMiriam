@@ -55,9 +55,10 @@ Includes vehicle inventory, booking calendar with Hebrew date validation, user a
 A responsive, modern online shop built with **React**.  
 Includes product catalog, dynamic cart management with localStorage, and admin product editing UI.  
 
-### •📡 Weather Station Service – C# Multi-Layered Architecture  
-A backend service managing weather stations and measurements.  
-Implements stored procedures, multi-layer separation (UI–BL–DAL), and JSON-based output for integration and scalability.
+### •🧱 [**DEVOPS MBJ INFRA – Terraform + GCP**](https://github.com/LevMiriam/DEVOPS-MBJ-INFRA)  
+An advanced **Infrastructure as Code (IaC)** project built with **Terraform** on **Google Cloud Platform (GCP)**.  
+Implements modular architecture, automated provisioning of scalable environments (Testing & Production), and a Managed Instance Group with auto-healing and Nginx “Hello World” deployment.  
+Follows best practices of DevOps automation, cost optimization, and security by design.  
 
 ### •🛍️ Online Store Web App – HTML + CSS + JavaScript  
 A single-page online shop with user authentication, admin management, and a dynamic cart system.  
