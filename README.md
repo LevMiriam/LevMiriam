@@ -47,10 +47,9 @@ Git • GitHub • TFS • Azure DevOps • CI/CD Pipelines • Bash • Linux �
 ---
 
 ##  Sample Projects  
-### •🎓 CourseHub – React + MUI Course Store  
-A modern course marketplace built with React, Redux, and MUI.  
-Includes role-based access, course management, reviews, filtering, and a local JSON server backend.  
-🧠 Integrated with **OpenAI API** for intelligent, real-time course assistance.  
+### •🚗 [**Way2Go – Car Rental Management System (.NET 8 + React + SQL)**](https://github.com/LevMiriam/FinalProject)
+A full-stack car rental system designed with a clean three-layer architecture (DAL–BL–Server).  
+Includes vehicle inventory, booking calendar with Hebrew date validation, user authentication, and payment + invoice generation via email.  
 
 ### •🗂️ Task Management System – Node.js + MySQL  
 A clean and scalable task management app with CRUD operations and status filtering.  
