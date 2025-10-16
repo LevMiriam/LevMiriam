@@ -59,15 +59,7 @@ Includes product catalog, dynamic cart management with localStorage, and admin p
 An advanced **Infrastructure as Code (IaC)** project built with **Terraform** on **Google Cloud Platform (GCP)**.  
 Implements modular architecture, automated provisioning of scalable environments (Testing & Production), and a Managed Instance Group with auto-healing and Nginx “Hello World” deployment.  
 Follows best practices of DevOps automation, cost optimization, and security by design.  
-
-### •🛍️ Online Store Web App – HTML + CSS + JavaScript  
-A single-page online shop with user authentication, admin management, and a dynamic cart system.  
-Developed with OOP patterns and responsive SPA design principles.
-
-### •🎬 Smart Movie Store – React + C# + Python AI + SQL  
-A full-stack movie eCommerce platform integrating AI-based recommendations.  
-Built with React frontend, .NET Core backend, and SQL Server — following **Clean Architecture** principles.  
-
+ 
 ---
 
 ##  Contact  
