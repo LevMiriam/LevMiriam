@@ -55,7 +55,7 @@ Includes vehicle inventory, booking calendar with Hebrew date validation, user a
 A responsive, modern online shop built with **React**.  
 Includes product catalog, dynamic cart management with localStorage, and admin product editing UI.  
 
-### •🧱 [**Devops-MBJ-Infra – Terraform + GCP**](https://github.com/LevMiriam/devops-mbj-infra)  
+### •🧱 [**AutoCloud-Infrastructure – Terraform + GCP**](https://github.com/LevMiriam/devops-mbj-infra)  
 An advanced **Infrastructure as Code (IaC)** project built with **Terraform** on **Google Cloud Platform (GCP)**.  
 Implements modular architecture, automated provisioning of scalable environments (Testing & Production), and a Managed Instance Group with auto-healing and Nginx “Hello World” deployment.  
 Follows best practices of DevOps automation, cost optimization, and security by design.  
