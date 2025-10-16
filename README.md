@@ -19,13 +19,10 @@ I approach every project as a system: from the UI to the backend to the database
 
 ###  Frontend  
 Angular 18 • TypeScript • React • HTML5 • CSS3 • Material UI • Responsive Design  
-
 ###  Backend  
 C# (.NET Core) • Python • Java • C++ • Node.js • REST APIs • JSON Server   
-
 ###  Databases  
 SQL Server • MySQL • Entity Framework • ADO.NET  
-
 ###  DevOps / Tools  
 Git • GitHub • Bash • Linux • PowerShell • Postman • Visual Studio • VS Code • IntelliJ IDEA  
 
@@ -50,33 +47,24 @@ Git • GitHub • Bash • Linux • PowerShell • Postman • Visual Studio �
 ---
 
 ##  Sample Projects  
-
-### 🎓 CourseHub – React + MUI Course Store  
+### •🎓 CourseHub – React + MUI Course Store  
 A modern course marketplace built with React, Redux, and MUI.  
 Includes role-based access, course management, reviews, filtering, and a local JSON server backend.  
 🧠 Integrated with **OpenAI API** for intelligent, real-time course assistance.  
 
----
-
-### 🗂️ Task Management System – Node.js + MySQL  
+### •🗂️ Task Management System – Node.js + MySQL  
 A clean and scalable task management app with CRUD operations and status filtering.  
-Built using Node.js, Express, and MySQL with a strong emphasis on modularity and maintainability.  
+Built using Node.js, Express, and MySQL with a strong emphasis on modularity and maintainability.
 
----
-
-### 📡 Weather Station Service – C# Multi-Layered Architecture  
+### •📡 Weather Station Service – C# Multi-Layered Architecture  
 A backend service managing weather stations and measurements.  
-Implements stored procedures, multi-layer separation (UI–BL–DAL), and JSON-based output for integration and scalability.  
+Implements stored procedures, multi-layer separation (UI–BL–DAL), and JSON-based output for integration and scalability.
 
----
-
-### 🛍️ Online Store Web App – HTML + CSS + JavaScript  
+### •🛍️ Online Store Web App – HTML + CSS + JavaScript  
 A single-page online shop with user authentication, admin management, and a dynamic cart system.  
-Developed with OOP patterns and responsive SPA design principles.  
+Developed with OOP patterns and responsive SPA design principles.
 
----
-
-### 🎬 Smart Movie Store – React + C# + Python AI + SQL  
+### •🎬 Smart Movie Store – React + C# + Python AI + SQL  
 A full-stack movie eCommerce platform integrating AI-based recommendations.  
 Built with React frontend, .NET Core backend, and SQL Server — following **Clean Architecture** principles.  
 
