@@ -53,7 +53,7 @@ Includes vehicle inventory, booking calendar with Hebrew date validation, user a
 
 ### •🛍️ [**Online Store Web App -React**](https://github.com/LevMiriam/ReactOnlineStore)
 A responsive, modern online shop built with **React**.  
-Includes product catalog, dynamic cart management with localStorage, and admin product editing UI.  
+Includes product catalog, dynamic cart management with localStorage, and admin product editing UI .  
 
 ### •🧱 [**AutoCloud-Infrastructure – Terraform + GCP**](https://github.com/LevMiriam/devops-mbj-infra)  
 An advanced **Infrastructure as Code (IaC)** project built with **Terraform** on **Google Cloud Platform (GCP)**.  
