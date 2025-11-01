@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Miriam!  
+# 👋 Hi, I'm Miriam!   
 
  **Software Developer** |  **Clean Code Enthusiast** |  **Systems-Oriented Thinker**  
 I create scalable, maintainable, and secure solutions with attention to detail and real-world business needs.
