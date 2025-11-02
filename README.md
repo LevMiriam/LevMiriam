@@ -5,7 +5,7 @@ I create scalable, maintainable, and secure solutions with attention to detail a
 
 ---
 
-##  About Me  
+##  About Me   
 I’m passionate about developing solutions that are not just functional — but reliable, clear, and built for growth.  
 I approach every project as a system: from the UI to the backend to the database.  
 
